@@ -1,1 +1,1 @@
-C:\Users\white\Documents\Projects\RustIntro\minigrep\target\debug\libminigrep.rlib: C:\Users\white\Documents\Projects\RustIntro\minigrep\src\lib.rs
+C:\Users\white\Documents\Rust\ Intro\RustIntro\minigrep\target\debug\libminigrep.rlib: C:\Users\white\Documents\Rust\ Intro\RustIntro\minigrep\src\lib.rs
