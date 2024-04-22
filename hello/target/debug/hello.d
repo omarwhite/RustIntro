@@ -1,0 +1,1 @@
+C:\Users\white\Documents\Rust\ Intro\RustIntro\hello\target\debug\hello.exe: C:\Users\white\Documents\Rust\ Intro\RustIntro\hello\src\lib.rs C:\Users\white\Documents\Rust\ Intro\RustIntro\hello\src\main.rs
